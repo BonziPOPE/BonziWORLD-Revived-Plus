@@ -1,0 +1,18 @@
+
+*.log
+logs/access.log
+logs/info1.log
+bans.json
+bans.json
+bans.json
+cert1.pem
+chain1.pem
+fullchain1.pem
+privkey1.pem
+build/www/beck.asf
+build/www/beck.bmp
+build/www/beck.wav
+src/chrome_extension/BonziWORLD Revived+ Chrome App/git/BonziWORLD-Revived-Plus-Chrome-App/
+src/chrome_extension/BonziWORLD Revived+ Firefox App/git/BonziWORLD-Revived-Plus-Chrome-App/
+cosmic_new.zip
+config.json
