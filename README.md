@@ -4,7 +4,7 @@
 
 <a href="TODO.md">Todo List</a>
 
-### Running BWR+
+## Running BWR+
 ```
 cd server
 npm install
